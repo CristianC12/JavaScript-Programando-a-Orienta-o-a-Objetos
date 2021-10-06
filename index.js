@@ -14,3 +14,4 @@ contaCorrenteRicardo.transferir(200, contaCorrente2)
 
 console.log(contaCorrenteRicardo);
 console.log(contaCorrente2);
+console.log("O número de contas criadas é: " + ContaCorrente.numeroDeContas);
